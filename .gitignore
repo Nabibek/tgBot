@@ -1,0 +1,39 @@
+# Бинарные файлы
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Тестовые файлы
+*.test
+
+# Файлы вывода
+*.out
+
+# Зависимости
+vendor/
+go.sum
+
+# IDE файлы
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Операционные системы
+.DS_Store
+Thumbs.db
+
+# Файлы модулей
+go.work
+go.work.sum
+
+# Логи
+*.log
+*.txt
+
+# Конфигурация (если нужно)
+*.env
+*.env.local
+config.yaml
